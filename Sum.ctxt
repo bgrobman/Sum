@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sum
+comment1.params=a\ num\ sum
+comment1.target=int\ makeSum(int[],\ int,\ int)
+comment2.params=a\ i\ num\ sum\ count
+comment2.target=int\ makeSum(int[],\ int,\ int,\ int,\ int)
+numComments=3
